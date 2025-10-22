@@ -54,7 +54,7 @@ For detailed customization options and examples, see the code in lib/flight_tick
 ## Screenshots
 
 ```markdown
-<img src="assets/screenshots/ticket_card.png" width="300" height="180" alt="Flight Ticket Card">
+<img src="assets/ticket_card.png" width="300" height="180" alt="Flight Ticket Card">
 
 
 ## License
