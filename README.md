@@ -52,9 +52,9 @@ TicketCard(
 For detailed customization options and examples, see the code in lib/flight_ticket_booking_card/ticket_card.dart.
 
 ## Screenshots
-## Screenshots
 
-![Flight Ticket Card](assets/ticket_card.png)
+```markdown
+<img src="assets/screenshots/ticket_card.png" width="300" height="180" alt="Flight Ticket Card">
 
 
 ## License
