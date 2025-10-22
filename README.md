@@ -53,7 +53,7 @@ For detailed customization options and examples, see the code in lib/flight_tick
 
 ## Screenshots
 
-<img src="assets/ticket_card.png" width="320" height="480" alt="Flight Ticket Card">
+<img src="assets/ticket_card.png" width="360" height="800" alt="Flight Ticket Card">
 
 
 ## License
