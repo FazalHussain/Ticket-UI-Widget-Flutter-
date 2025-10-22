@@ -21,7 +21,7 @@ Scaffold(
 
 ```
 
-##Customization
+## Customization
 
 ```dart
 TicketCard(
@@ -50,6 +50,12 @@ TicketCard(
 -  Responsive (max width: 420px)
 
 For detailed customization options and examples, see the code in lib/flight_ticket_booking_card/ticket_card.dart.
+
+## Screenshots
+## Screenshots
+
+![Flight Ticket Card](assets/ticket_card.png)
+
 
 ## License
 
