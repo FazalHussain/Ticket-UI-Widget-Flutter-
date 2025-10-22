@@ -53,5 +53,5 @@ For detailed customization options and examples, see the code in lib/flight_tick
 
 ## License
 
-MIT License Copyright (c) 2025 [Fazal Hussain]
+No License
 
