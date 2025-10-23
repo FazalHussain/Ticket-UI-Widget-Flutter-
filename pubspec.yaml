@@ -1,9 +1,10 @@
 name: flight_ticket_booking_card
-description: "A new Flutter project."
+description: "A beautifully designed, reusable Flutter widget that creates an authentic-looking airline boarding pass/ticket card. Perfect for travel apps, booking confirmations, or any UI that needs a professional ticket design."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-
+publish_to: 'https://pub.dev'  # required to publish
+homepage: 'https://github.com/FazalHussain/Ticket-UI-Widget-Flutter-'
+author: Fazal Hussain <fazalcs13@gmail.com>
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
 # followed by an optional build number separated by a +.
