@@ -42,12 +42,14 @@ TicketCard(
 
 ## Features
 
-- Realistic ticket design with rounded corners and notches
--  Customizable flight details and passenger info
--  Perforated cut line separator
--  Barcode area
--  Zero dependencies - pure Flutter
--  Responsive (max width: 420px)
+- Realistic ticket design with rounded corners and notches 
+- Customizable flight details and passenger info 
+- Perforated cut line separator 
+- Barcode area (Code 128)
+- Departure and arrival dates **calculated using IATA airport timezones**
+- Flight duration displayed in hours and minutes
+- Zero dependencies - pure Flutter 
+- Responsive (max width: 420px)
 
 For detailed customization options and examples, see the code in lib/flight_ticket_booking_card/ticket_card.dart.
 
