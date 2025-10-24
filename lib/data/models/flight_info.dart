@@ -1,6 +1,4 @@
 import 'package:flight_ticket_booking_card/utils/date_time.dart';
-import 'package:flutter/material.dart';
-import 'package:intl/intl.dart';
 /// A model representing flight timing information, including departure,
 /// arrival, and total duration.
 ///

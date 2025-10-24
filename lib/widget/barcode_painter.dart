@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:ui' as ui;
 
 /// A simple [CustomPainter] that draws a barcode-like pattern of vertical bars.
 ///

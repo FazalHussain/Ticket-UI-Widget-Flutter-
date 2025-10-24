@@ -1,12 +1,8 @@
 import 'package:barcode_widget/barcode_widget.dart';
 import 'package:flight_ticket_booking_card/utils/date_time.dart';
 import 'package:flight_ticket_booking_card/utils/flight_time_calculator.dart';
-import 'package:flight_ticket_booking_card/widget/barcode_painter.dart';
-import 'package:flight_ticket_booking_card/widget/ticket_clipper.dart';
-import 'package:flight_ticket_booking_card/widget/ticket_painter.dart';
 import 'package:flight_ticket_booking_card/widget/ticket_shape.dart';
 import 'package:flutter/material.dart';
-import 'dart:ui' as ui;
 
 import '../data/models/flight_info.dart';
 import 'cut_separator.dart';
