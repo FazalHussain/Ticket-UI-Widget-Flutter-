@@ -74,7 +74,7 @@ For detailed customization options and examples, see the code in lib/flight_tick
 
 ## Screenshots
 
-<img src="https://github.com/FazalHussain/Ticket-UI-Widget-Flutter-/blob/master/assets/ticket_card.png" width="360" height="800" alt="Flight Ticket Card">
+<img src="https://raw.githubusercontent.com/FazalHussain/Ticket-UI-Widget-Flutter-/refs/heads/master/assets/ticket_card.png" width="360" height="800" alt="Flight Ticket Card">
 
 
 ## License
